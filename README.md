@@ -9,6 +9,8 @@
 ![아이템 획득](http://drive.google.com/uc?export=view&id=1_XbV350qgqf_S7KKJ7k6kv75H8URl3Tn)
 * Player가 아이템을 획득하고 있는 화면입니다. Player을 조종하여 아이템을 획득하면 Score가 1씩 오르는 것을 확인할 수 있습니다.  
   
+  
+  
   test
   
   
